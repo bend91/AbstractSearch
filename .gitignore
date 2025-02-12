@@ -7,3 +7,5 @@ __pycache__/
 build/
 AbstractSearch.egg-info/
 .DS_Store
+AbstractSearch/.DS_Store
+AbstractSearch/__pycache__/*

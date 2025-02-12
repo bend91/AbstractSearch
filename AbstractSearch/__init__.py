@@ -1,1 +1,1 @@
-from .main import search_abstracts, training
+from .main import AbstractSearcher, training

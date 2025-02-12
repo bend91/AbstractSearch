@@ -1,0 +1,9 @@
+AbstractSearch/data/*
+AbstractSearch/nltk_data/*
+*.pkl
+*.index
+__pycache__/
+.venv
+build/
+AbstractSearch.egg-info/
+.DS_Store

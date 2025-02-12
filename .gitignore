@@ -9,3 +9,4 @@ AbstractSearch.egg-info/
 .DS_Store
 AbstractSearch/.DS_Store
 AbstractSearch/__pycache__/*
+Email_processing/*

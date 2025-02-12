@@ -1,0 +1,10 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+llama-cpp-python
+chromadb
+langchain
+rank_bm25
+fastapi
+uvicorn
